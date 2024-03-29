@@ -26,8 +26,8 @@
 ###
 <div allign="center">
   <img align="left"src=https://leetcard.jacoblin.cool/joe3727?theme=wtf&font=Yusei%20Magic>
-  <img align="right" height="100" src="./picture/shakeMeme.gif"  />
-  <img align="right" height="100" src="./picture/whoAmI.gif"  />
+  <img align="right" height="200" src="./picture/shakeMeme.gif"  />
+  <img align="right" height="200" src="./picture/whoAmI.gif"  />
   
 
 
