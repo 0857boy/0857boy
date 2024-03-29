@@ -1,3 +1,13 @@
-- name: leetcode-box
-  uses: puiiyuen/leetcode-box@v0.1.2
+name: leetcode-box
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+    
             
