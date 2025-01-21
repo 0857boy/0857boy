@@ -24,8 +24,3 @@
 ## ☕ Support Me
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=00FF00)](https://www.buymeacoffee.com/0857boy)
-
-
-<a href="https://theuselessweb.com/" target="_blank">
-  Click Here for Something Unexpected 😎
-</a>
