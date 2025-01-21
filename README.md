@@ -6,8 +6,7 @@
 👾 **Competitive Programmer** | 🤖 **AI Enthusiast** | 📟 **Code Explorer**  
 🟢 I have participated in programming competitions and enjoy tackling challenging algorithmic problems.  
 🟢 Passionate about learning and applying AI technologies, with hands-on experience in computer vision projects.  
-🟢 Currently diving into the world of **Large Language Models (LLMs)** and exploring automation to push the boundaries of innovation.
-
+🟢 Currently diving into the world of **Natural Language Processing (NLP)** and exploring automation to push the boundaries of innovation.
 
 ## 💾 My GitHub Stats
 
