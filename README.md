@@ -1,25 +1,102 @@
-# 🕶️ Welcome to the Matrix, I am Joe Liao
+# 🌐 ENTER THE MATRIX - I AM JOE LIAO
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=24&duration=4000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Hello+World!;I+am+a+Software+Developer.;Code+is+my+reality.;Welcome+to+the+Matrix.)](https://git.io/typing-svg)
+<div align="center">
 
-## 💻 About Me
-👾 **Competitive Programmer** | 🤖 **AI Enthusiast** | 📟 **Code Explorer**  
-🟢 I have participated in programming competitions and enjoy tackling challenging algorithmic problems.  
-🟢 Passionate about learning and applying AI technologies, with hands-on experience in computer vision projects.  
-🟢 Currently diving into the world of **Natural Language Processing (NLP)** and exploring automation to push the boundaries of innovation.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=900&lines=WELCOME+TO+THE+MATRIX+🕶️;REALITY+IS+CODE+⚡;DIGITAL+ARCHITECT+💻;BUILDING+THE+FUTURE+🚀;THE+CHOSEN+DEVELOPER+🌟)](https://git.io/typing-svg)
 
-## 💾 My GitHub Stats
+![Matrix Rain](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0857boy&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0857boy&layout=compact&theme=dark&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000)
+---
 
-## 🎮 Fun Facts
-- 🔍 I’ve debugged bugs that felt more like treasure hunts.  
-- 🕹️ Gaming taught me about strategy; coding taught me patience.  
-- 🦾 My dream? Build a robot that can laugh at my bad jokes.  
-- 🧩 Always curious about how things work—breaking them is just part of the learning process.  
+## 💀 SYSTEM.PROFILE.LOAD()
 
-## ☕ Support Me
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=00FF00)](https://www.buymeacoffee.com/0857boy)
+<td width="100%" valign="top">
+
+```typescript
+class MatrixAgent {
+  readonly designation: string = "Joe Liao";
+  readonly codename: string = "The Architect";
+  readonly reality: string = "Digital Matrix";
+  readonly status: string = "ONLINE";
+  
+  private abilities = {
+    core: "Full Stack Development 🔥",
+    specialty: "AI/ML Engineering 🤖", 
+    weapon: "Competitive Programming 🏆",
+    vision: "Cloud Practitioner ☁️",
+    current: "NLP Neural Networks 🧠"
+  };
+  
+  executeProtocol(): string[] {
+    return [
+      "⚡ Advanced Neural Networks",
+      "🔮 AI Automation Systems",
+      "💎 Algorithm Optimization", 
+      "☁️ Cloud Architecture Mastery"
+    ];
+  }
+  
+  getMatrixLevel(): number {
+    return Math.floor(Math.random() * 99) + 1;
+  }
+}
+```
+
+</td>
+
+
+## 📊 MATRIX ANALYTICS
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**🔥 SYSTEM PERFORMANCE**
+
+<img src="https://github-readme-stats.vercel.app/api?username=0857boy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=4ECDC4&border_radius=15&custom_title=NEURAL%20NETWORK%20STATUS"/>
+
+</td>
+<td width="50%" align="center">
+
+**⚡ CODE DISTRIBUTION**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0857boy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=4ECDC4&border_radius=15&custom_title=DIGITAL%20DNA"/>
+
+</td>
+</tr>
+</table>
+
+
+## 🔋 POWER THE MATRIX
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+[![Buy me a coffee](https://img.shields.io/badge/🔌%20POWER%20BOOST-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=000000)](https://www.buymeacoffee.com/0857boy)
+
+</td>
+<td align="center" width="80%">
+
+**⚡ "FUEL THE CODE, POWER THE FUTURE!"**
+
+*Every coffee = More lines of reality-bending code*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+**🌐 MATRIX ACCESS LOGS**
+
+![Visitor Count](https://profile-counter.glitch.me/0857boy/count.svg)
