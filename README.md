@@ -76,9 +76,11 @@ class MatrixAgent {
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="50%">
 
-[![Buy me a coffee](https://img.shields.io/badge/🔌%20POWER%20BOOST-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=000000)](https://www.buymeacoffee.com/0857boy)
+[![Buy me a coffee](https://img.shields.io/badge/%20Buy%20Me%20A%20Coffee-FFD600?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/0857boy)
+
+
 
 </td>
 <td align="center" width="80%">
