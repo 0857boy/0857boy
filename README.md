@@ -101,4 +101,4 @@ class MatrixAgent {
 
 **🌐 MATRIX ACCESS LOGS**
 
-![Visitor Count](https://profile-counter.glitch.me/0857boy/count.svg)
+![Matrix Visitor](https://komarev.com/ghpvc/?username=0857boy&label=SYSTEM::ACCESS_LOG&style=for-the-badge&color=0D1117&label_color=00FF41&text_color=ffffff)
