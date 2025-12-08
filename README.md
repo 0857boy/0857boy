@@ -47,29 +47,6 @@ class MatrixAgent {
 
 </td>
 
-
-## 📊 MATRIX ANALYTICS
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-**🔥 SYSTEM PERFORMANCE**
-
-<img src="https://github-readme-stats.vercel.app/api?username=0857boy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=4ECDC4&border_radius=15&custom_title=NEURAL%20NETWORK%20STATUS"/>
-
-</td>
-<td width="50%" align="center">
-
-**⚡ CODE DISTRIBUTION**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0857boy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=4ECDC4&border_radius=15&custom_title=DIGITAL%20DNA"/>
-
-</td>
-</tr>
-</table>
-
-
 ## 🔋 POWER THE MATRIX
 
 <div align="center">
