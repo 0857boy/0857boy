@@ -6,7 +6,7 @@
 [![Location](https://img.shields.io/badge/Location-Taiwan-red?style=for-the-badge&logo=google-maps)](https://maps.google.com)
 
 *Master of Science in Computer Science and Information Engineering*
-*National Central University | Exp. June 2027*
+*National Central University*
 
 
 </div>
