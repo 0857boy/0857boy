@@ -17,6 +17,8 @@
     <!-- Fonts: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" as="style"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
@@ -34,7 +36,8 @@
             </div>
             <div class="header-cta">
                 <a href="mailto:liaojoe736@gmail.com" class="btn btn-primary" aria-label="Email Me">Email Me</a>
-                <a href="#" class="btn btn-secondary" aria-label="Download CV">Download CV</a>
+                <button type="button" class="btn btn-secondary" disabled aria-label="Download CV (Coming Soon)">Download
+                    CV</button>
             </div>
         </div>
     </header>
@@ -91,45 +94,54 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="col-role">AI Engineer</td>
-                                <td class="col-contribution">AI CUP (Medical Speech)<br><span
+                                <td class="col-role" data-label="Role">AI Engineer</td>
+                                <td class="col-contribution" data-label="Contribution">AI CUP (Medical Speech)<br><span
                                         class="col-detail">WhisperX + Gemini 2.5 Pro pipeline</span></td>
-                                <td class="col-outcome"><span class="badge">5th Place (Winner)</span></td>
-                                <td class="col-year">2025</td>
-                                <td class="col-view"><a href="https://github.com/0857boy/ai_cup_2025" class="view-link"
-                                        target="_blank" rel="noopener noreferrer"
+                                <td class="col-outcome" data-label="Outcome"><span class="badge">5th Place
+                                        (Winner)</span></td>
+                                <td class="col-year" data-label="Year">2025</td>
+                                <td class="col-view" data-label="View"><a href="https://github.com/0857boy/ai_cup_2025"
+                                        class="view-link" target="_blank" rel="noopener noreferrer"
                                         aria-label="View Medical Speech Project">View</a></td>
                             </tr>
                             <tr>
-                                <td class="col-role">CV Engineer</td>
-                                <td class="col-contribution">AI CUP (CT Aortic Valve)<br><span
+                                <td class="col-role" data-label="Role">CV Engineer</td>
+                                <td class="col-contribution" data-label="Contribution">AI CUP (CT Aortic Valve)<br><span
                                         class="col-detail">YOLOv8-s with Efficient C2f & DySampling</span></td>
-                                <td class="col-outcome"><span class="badge">29th Place</span></td>
-                                <td class="col-year">2025</td>
+                                <td class="col-outcome" data-label="Outcome"><span class="badge">29th Place</span></td>
+                                <td class="col-year" data-label="Year">2025</td>
+                                <td class="col-view" data-label="View"><span class="sr-only">No link</span></td>
                             </tr>
                             <tr>
-                                <td class="col-role">Data Scientist</td>
-                                <td class="col-contribution">E.SUN AI Open Challenge<br><span
+                                <td class="col-role" data-label="Role">Data Scientist</td>
+                                <td class="col-contribution" data-label="Contribution">E.SUN AI Open Challenge<br><span
                                         class="col-detail">Heterogeneous GNN + GBDT for fraud detection</span></td>
-                                <td class="col-outcome"><span class="badge">Top 4%</span></td>
-                                <td class="col-year">2025</td>
-                                <td class="col-view"><a href="https://github.com/p1jqlin/AICUP2025-finance"
-                                        class="view-link" target="_blank" rel="noopener noreferrer"
+                                <td class="col-outcome" data-label="Outcome"><span class="badge">Top 4%</span></td>
+                                <td class="col-year" data-label="Year">2025</td>
+                                <td class="col-view" data-label="View"><a
+                                        href="https://github.com/p1jqlin/AICUP2025-finance" class="view-link"
+                                        target="_blank" rel="noopener noreferrer"
                                         aria-label="View Fraud Detection Project">View</a></td>
                             </tr>
                             <tr>
-                                <td class="col-role">Algorithm Dev</td>
-                                <td class="col-contribution">CPE (Programming Exam)<br><span class="col-detail">Solved
+                                <td class="col-role" data-label="Role">Algorithm Dev</td>
+                                <td class="col-contribution" data-label="Contribution">CPE (Programming Exam)<br><span
+                                        class="col-detail">Solved
                                         5/7 problems, Advanced Algorithms</span></td>
-                                <td class="col-outcome"><span class="badge">Top 4% (PR 96)</span></td>
-                                <td class="col-year">2024</td>
+                                <td class="col-outcome" data-label="Outcome"><span class="badge">Top 4% (PR 96)</span>
+                                </td>
+                                <td class="col-year" data-label="Year">2024</td>
+                                <td class="col-view" data-label="View"><span class="sr-only">No link</span></td>
                             </tr>
                             <tr>
-                                <td class="col-role">CV Engineer</td>
-                                <td class="col-contribution">AI CUP (Drone Counting)<br><span class="col-detail">YOLOv7
+                                <td class="col-role" data-label="Role">CV Engineer</td>
+                                <td class="col-contribution" data-label="Contribution">AI CUP (Drone Counting)<br><span
+                                        class="col-detail">YOLOv7
                                         based small object detection</span></td>
-                                <td class="col-outcome"><span class="badge">Honorable Mention</span></td>
-                                <td class="col-year">2023</td>
+                                <td class="col-outcome" data-label="Outcome"><span class="badge">Honorable
+                                        Mention</span></td>
+                                <td class="col-year" data-label="Year">2023</td>
+                                <td class="col-view" data-label="View"><span class="sr-only">No link</span></td>
                             </tr>
                         </tbody>
                     </table>
