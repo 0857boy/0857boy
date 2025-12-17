@@ -1,81 +1,63 @@
-# 🌐 ENTER THE MATRIX - I AM JOE LIAO
+# Joe Liao 👨‍💻
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=900&lines=WELCOME+TO+THE+MATRIX+🕶️;REALITY+IS+CODE+⚡;DIGITAL+ARCHITECT+💻;BUILDING+THE+FUTURE+🚀;THE+CHOSEN+DEVELOPER+🌟)](https://git.io/typing-svg)
+[![Master's Student](https://img.shields.io/badge/Master's%20Student-NCU%20CSIE-blue?style=for-the-badge&logo=academic-cap)](https://www.ncu.edu.tw/)
+[![Location](https://img.shields.io/badge/Location-Taiwan-red?style=for-the-badge&logo=google-maps)](https://maps.google.com)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/certification/)
 
-![Matrix Rain](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
+*Master of Science in Computer Science and Information Engineering*
+*National Central University | Exp. June 2027*
+
 
 </div>
 
 ---
 
-## 💀 SYSTEM.PROFILE.LOAD()
+## 🚀 About Me
+
+I am a Master's student specializing in **Cloud Computing, AI/ML, and Advanced Algorithms**. I have a strong passion for building scalable cloud-native applications and high-performance AI systems.
+
+## 🛠️ Technical Arsenal
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### 🧠 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 
 
-<td width="100%" valign="top">
+## 🏆 Competitions & Achievements
 
-```typescript
-class MatrixAgent {
-  readonly designation: string = "Joe Liao";
-  readonly codename: string = "The Architect";
-  readonly reality: string = "Digital Matrix";
-  readonly status: string = "ONLINE";
-  
-  private abilities = {
-    core: "Full Stack Development 🔥",
-    specialty: "AI/ML Engineering 🤖", 
-    weapon: "Competitive Programming 🏆",
-    vision: "Cloud Practitioner ☁️",
-    current: "NLP Neural Networks 🧠"
-  };
-  
-  executeProtocol(): string[] {
-    return [
-      "⚡ Advanced Neural Networks",
-      "🔮 AI Automation Systems",
-      "💎 Algorithm Optimization", 
-      "☁️ Cloud Architecture Mastery"
-    ];
-  }
-  
-  getMatrixLevel(): number {
-    return Math.floor(Math.random() * 99) + 1;
-  }
-}
-```
-
-</td>
-
-## 🔋 POWER THE MATRIX
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-[![Buy me a coffee](https://img.shields.io/badge/%20Buy%20Me%20A%20Coffee-FFD600?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/0857boy)
-
-
-
-</td>
-<td align="center" width="80%">
-
-**⚡ "FUEL THE CODE, POWER THE FUTURE!"**
-
-*Every coffee = More lines of reality-bending code*
-
-</td>
-</tr>
-</table>
-
-</div>
+| Year | Competition / Event | Award / Rank | Breakdown |
+|:---:|---|---|---|
+| **2025** | **AI CUP (Medical Speech)** | 🥇 **5th Place** (Winner) | WhisperX + Gemini 2.5 Pro pipeline; custom Transformer for audio enhancement. |
+| **2025** | **AI CUP (CT Aortic Valve)** | 🏅 **29th Place** (Top Tier) | YOLOv8-s detection pipeline with Efficient C2f & DySampling. |
+| **2025** | **E.SUN AI Open Challenge** | 🏅 **Top 4%** (31st/790) | Heterogeneous GNN + GBDT for fraud detection; PU Learning for label imbalance. |
+| **2024** | **CPE (Programming Exam)** | 🎖️ **Top 4%** (PR 96) | Solved 5/7 problems; demonstrated advanced algorithmic proficiency. |
+| **2023** | **AI CUP (Drone Counting)** | 🎖️ **Honorable Mention** | YOLOv7 based small object detection and tracking. |
 
 ---
 
+
 <div align="center">
 
-**🌐 MATRIX ACCESS LOGS**
+![Visitors](https://komarev.com/ghpvc/?username=0857boy&label=Profile%20Views&style=flat-square&color=blue)
 
-![Matrix Visitor](https://komarev.com/ghpvc/?username=0857boy&label=SYSTEM::ACCESS_LOG&style=for-the-badge&color=0D1117&label_color=00FF41&text_color=ffffff)
+*"Code is like humor. When you have to explain it, it’s bad."*
+
+</div>
