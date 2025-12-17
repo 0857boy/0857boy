@@ -4,7 +4,6 @@
 
 [![Master's Student](https://img.shields.io/badge/Master's%20Student-NCU%20CSIE-blue?style=for-the-badge&logo=academic-cap)](https://www.ncu.edu.tw/)
 [![Location](https://img.shields.io/badge/Location-Taiwan-red?style=for-the-badge&logo=google-maps)](https://maps.google.com)
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/certification/)
 
 *Master of Science in Computer Science and Information Engineering*
 *National Central University | Exp. June 2027*
@@ -39,6 +38,9 @@ I am a Master's student specializing in **Cloud Computing, AI/ML, and Advanced A
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+
+<br>
+<img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" />
 
 
 ## 🏆 Competitions & Achievements
