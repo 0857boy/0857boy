@@ -13,6 +13,8 @@
 
     --spacing-unit: 4px;
     /* Base unit */
+    --u-1: calc(var(--spacing-unit) * 1);
+    /* 4px */
     --u-2: calc(var(--spacing-unit) * 2);
     /* 8px */
     --u-4: calc(var(--spacing-unit) * 4);
@@ -43,6 +45,19 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+/* Accessibility Utilities */
+.sr-only {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
 }
 
 body {
@@ -181,22 +196,35 @@ h1.name {
     font-size: 0.9375rem;
     border-radius: 4px;
     transition: all 0.2s ease;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: normal;
+}
+
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    color: var(--color-text-meta);
+    border-color: var(--color-border);
 }
 
 .btn-primary {
     background-color: var(--color-text);
     color: white;
+    border: 1px solid transparent;
 }
 
-.btn-primary:hover {
+.btn-primary:hover:not(:disabled) {
     background-color: var(--color-accent);
 }
 
 .btn-secondary {
     border: 1px solid var(--color-border);
+    background-color: transparent;
+    color: var(--color-text);
 }
 
-.btn-secondary:hover {
+.btn-secondary:hover:not(:disabled) {
     border-color: var(--color-text);
 }
 
@@ -342,6 +370,7 @@ h1.name {
 }
 
 .footer-inner {
+    grid-column: 1 / -1;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -353,8 +382,22 @@ h1.name {
     font-weight: 500;
 }
 
-.footer-contact a:hover {
+.footer-contact a,
+.view-link {
     color: var(--color-accent);
+}
+
+.footer-contact a:visited,
+.view-link:visited {
+    opacity: 0.9;
+}
+
+.footer-contact a:hover,
+.view-link:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    color: var(--color-accent);
+    background-color: transparent;
 }
 
 .copyright {
@@ -438,8 +481,104 @@ h1.name {
         text-align: center;
     }
 
-    /* Flatten Works Table slightly for small screens? 
-       No, use overflow-x strategy as requested. */
+    /* Mobile Table: Stacked Cards (Strategy B) */
+    .table-wrapper {
+        overflow-x: visible;
+        /* Remove horizontal scroll */
+    }
+
+    .works-table,
+    .works-table tbody,
+    .works-table tr,
+    .works-table td {
+        display: block;
+        width: 100%;
+    }
+
+    .works-table thead {
+        display: none;
+        /* Hide headers */
+    }
+
+    .works-table tr {
+        margin-bottom: var(--u-8);
+        border-bottom: 2px solid var(--color-text);
+        /* Stronger separator for cards */
+        padding-bottom: var(--u-4);
+    }
+
+    .works-table tr:last-child {
+        border-bottom: none;
+    }
+
+    .works-table td {
+        padding: var(--u-1) 0;
+        border: none;
+        /* Remove inner borders */
+    }
+
+    /* Reset Widths */
+    .col-role,
+    .col-contribution,
+    .col-outcome,
+    .col-year,
+    .col-view {
+        width: 100%;
+        text-align: left;
+    }
+
+    .works-table td::before {
+        content: attr(data-label);
+        display: block;
+        font-size: 0.75rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: var(--color-text-meta);
+        margin-bottom: var(--u-1);
+    }
+
+    /* Mobile specific styling for fields */
+    .col-role {
+        font-size: 1rem;
+        /* Reset specific styling as we use label now */
+        margin-bottom: var(--u-1);
+    }
+
+    .col-contribution {
+        font-size: 1.125rem;
+        font-weight: 600;
+        margin-bottom: var(--u-2);
+    }
+
+    .col-outcome {
+        margin-bottom: var(--u-2);
+    }
+
+    .col-year {
+        display: inline-block;
+        font-size: 0.875rem;
+        margin-bottom: var(--u-2);
+    }
+
+    .col-view {
+        margin-top: var(--u-2);
+    }
+
+    .col-view .view-link {
+        display: inline-block;
+        padding: var(--u-2) var(--u-4);
+        border: 1px solid var(--color-accent);
+        background-color: transparent;
+        border-radius: 4px;
+        text-decoration: none;
+        color: var(--color-accent);
+        font-size: 0.875rem;
+    }
+
+    .col-view .view-link:hover {
+        background-color: var(--color-accent);
+        color: white;
+    }
 }
 
 /* Prefers Reduced Motion */
