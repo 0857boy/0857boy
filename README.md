@@ -40,7 +40,8 @@ I am a Master's student specializing in **Cloud Computing, AI/ML, and Advanced A
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 
 <br>
-<img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" />
+<img src="personal-website/assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" /> &nbsp;
+<img src="personal-website/assets/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="120" />
 
 
 ## 🏆 Competitions & Achievements

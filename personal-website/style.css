@@ -271,6 +271,17 @@ h1.name {
     max-width: 65ch;
 }
 
+.certification-items {
+    display: flex;
+    gap: var(--u-4);
+    flex-wrap: wrap;
+}
+
+.cert-badge {
+    width: 100px;
+    height: auto;
+}
+
 /* -------------------------------------------------------------------------
    Selected Works Table
    ------------------------------------------------------------------------- */
